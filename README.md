@@ -10,9 +10,23 @@
 
 ## Currently Building
 
-- **Mina SDK** — Expanding cross-chain support and trading capabilities
-- **Spica** — AI-powered DeFi workflow automation
-- **Sipho-OS** — LLM-guided expert decision framework
+<p align="center">
+  <a href="https://zionapp.co">
+    <img src="./zion.svg" height="60" alt="Zion" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://usemina.co">
+    <img src="./mina.svg" height="60" alt="Mina" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://spica-five.vercel.app/">
+    <img src="./spica.svg" height="60" alt="Spica" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/SiphoYawe/laurel">
+    <img src="./laurel.svg" height="60" alt="Laurel" />
+  </a>
+</p>
 
 ---
 
