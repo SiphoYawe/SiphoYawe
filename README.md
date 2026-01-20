@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./Sipho%20Yawe.svg" height="60" alt="Sipho Yawe" />
 </p>
-<h3 align="center">Building at the intersection of AI & DeFi</h3>
+<h3 align="center">Building in AI, SaaS and Web3</h3>
 
 <p align="center">
   Currently focused on making cross-chain trading accessible and bringing LLM capabilities to financial workflows.<br/>
