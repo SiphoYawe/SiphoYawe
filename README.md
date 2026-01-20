@@ -83,7 +83,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiphoYawe&theme=github-dark-blue&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=58A6FF" />
+  <img src="https://streak-stats.demolab.com/?user=SiphoYawe&theme=github-dark-blue&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=58A6FF" />
 </p>
 
 ---
