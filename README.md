@@ -1,11 +1,5 @@
-<!-- Header -->
 <h1 align="center">Sipho Yawe</h1>
 <h3 align="center">Building at the intersection of AI & DeFi</h3>
-
----
-
-<!-- Intro -->
-<h2 align="center">I build AI-powered tools and DeFi infrastructure.</h2>
 
 <p align="center">
   Currently focused on making cross-chain trading accessible and bringing LLM capabilities to financial workflows.<br/>
@@ -89,7 +83,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SiphoYawe&theme=dark&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border=58A6FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiphoYawe&theme=github-dark-blue&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=58A6FF" />
 </p>
 
 ---
