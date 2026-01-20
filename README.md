@@ -10,24 +10,52 @@
 
 ## Currently Building
 
-<p align="center">
-  <a href="https://zionapp.co">
-    <img src="./zion.svg" height="50" alt="Zion" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://usemina.co">
-    <img src="./mina.svg" height="50" alt="Mina" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://spica-five.vercel.app/">
-    <img src="./spica.svg" height="50" alt="Spica" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/SiphoYawe/laurel">
-    <img src="./laurel.svg" height="50" alt="Laurel" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://zionapp.co">
+        <img src="./zion.svg" height="45" alt="Zion" />
+      </a>
+      <br/><br/>
+      <strong>Cross-chain DeFi trading</strong><br/>
+      Making swaps across blockchains simple and accessible
+      <br/><br/>
+      <a href="https://zionapp.co">🔗 zionapp.co</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://usemina.co">
+        <img src="./mina.svg" height="45" alt="Mina" />
+      </a>
+      <br/><br/>
+      <strong>AI-powered financial workflows</strong><br/>
+      LLM capabilities for smarter trading decisions
+      <br/><br/>
+      <a href="https://usemina.co">🔗 usemina.co</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://spica-five.vercel.app/">
+        <img src="./spica.svg" height="45" alt="Spica" />
+      </a>
+      <br/><br/>
+      <strong>AI conversation platform</strong><br/>
+      Multi-model chat interface with memory
+      <br/><br/>
+      <a href="https://spica-five.vercel.app/">🔗 spica-five.vercel.app</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/SiphoYawe/laurel">
+        <img src="./laurel.svg" height="45" alt="Laurel" />
+      </a>
+      <br/><br/>
+      <strong>Portfolio analytics</strong><br/>
+      Track and visualize your crypto holdings
+      <br/><br/>
+      <a href="https://github.com/SiphoYawe/laurel">🔗 github.com/SiphoYawe/laurel</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -101,7 +129,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SiphoYawe&theme=github-dark-blue&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=58A6FF" />
+  <img src="https://streak-stats.demolab.com?user=SiphoYawe&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=58A6FF&hide_border=false" />
 </p>
 
 ---
