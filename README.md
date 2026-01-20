@@ -4,7 +4,7 @@
 <h3 align="center">Building in AI, SaaS and Web3</h3>
 
 <p align="center">
-  Currently focused on making cross-chain trading accessible and bringing LLM capabilities to financial workflows.<br/>
+  Building products that solve real problems across education, finance and personal growth.<br/>
   Based in Sheffield, UK <img src="https://flagcdn.com/16x12/gb.png" width="16" height="12" alt="UK" />
 </p>
 
@@ -139,7 +139,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SiphoYawe&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=58A6FF&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiphoYawe" />
 </p>
 
 ---
