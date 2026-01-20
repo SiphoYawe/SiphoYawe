@@ -140,7 +140,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=SiphoYawe&theme=dark&hide_border=true&ring=58A6FF&currStreakLabel=58A6FF&fire=58A6FF" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-gamma-inky.vercel.app/?user=SiphoYawe&theme=dark&hide_border=true&ring=58A6FF&currStreakLabel=58A6FF&fire=58A6FF" alt="GitHub Streak" />
   </a>
 </p>
 
