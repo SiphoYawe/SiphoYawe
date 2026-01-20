@@ -139,9 +139,9 @@
 </p>
 
 <p align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SiphoYawe&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=3CEBA9&currStreakLabel=EB5454&fire=EB5454)](https://git.io/streak-stats)
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=SiphoYawe&theme=dark&hide_border=true&ring=58A6FF&currStreakLabel=58A6FF&fire=58A6FF" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
