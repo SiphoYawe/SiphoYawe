@@ -4,7 +4,7 @@
 <h3 align="center">Building in AI, SaaS and Web3</h3>
 
 <p align="center">
-  Building products that solve real problems across education, finance and personal growth.<br/>
+  Building products across education, business operations, DeFi, crypto and blockchain.<br/>
   Based in Sheffield, UK <img src="https://flagcdn.com/16x12/gb.png" width="16" height="12" alt="UK" />
 </p>
 
