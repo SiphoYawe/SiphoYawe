@@ -10,32 +10,24 @@
 
 ## Currently Building
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://zionapp.co">
-        <img src="./zion.svg" height="60" alt="Zion" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://usemina.co">
-        <img src="./mina.svg" height="60" alt="Mina" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://spica-five.vercel.app/">
-        <img src="./spica.svg" height="60" alt="Spica" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/SiphoYawe/laurel">
-        <img src="./laurel.svg" height="60" alt="Laurel" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://zionapp.co">
+    <img src="./zion.svg" height="50" alt="Zion" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://usemina.co">
+    <img src="./mina.svg" height="50" alt="Mina" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://spica-five.vercel.app/">
+    <img src="./spica.svg" height="50" alt="Spica" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/SiphoYawe/laurel">
+    <img src="./laurel.svg" height="50" alt="Laurel" />
+  </a>
+</p>
 
 ---
 
@@ -45,23 +37,17 @@
   <a href="https://github.com/SiphoYawe/mina">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiphoYawe&repo=mina&theme=dark&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&border_color=58A6FF" />
   </a>
-  <a href="https://github.com/SiphoYawe/mina-sdk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiphoYawe&repo=mina-sdk&theme=dark&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&border_color=58A6FF" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/SiphoYawe/spica">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiphoYawe&repo=spica&theme=dark&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&border_color=58A6FF" />
   </a>
-  <a href="https://github.com/SiphoYawe/Sipho-OS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiphoYawe&repo=Sipho-OS&theme=dark&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&border_color=58A6FF" />
-  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SiphoYawe/zion-documentation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiphoYawe&repo=zion-documentation&theme=dark&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&border_color=58A6FF" />
+  <a href="https://github.com/SiphoYawe/laurel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiphoYawe&repo=laurel&theme=dark&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&border_color=58A6FF" />
+  </a>
+  <a href="https://github.com/SiphoYawe/Sipho-OS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiphoYawe&repo=Sipho-OS&theme=dark&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&border_color=58A6FF" />
   </a>
 </p>
 
