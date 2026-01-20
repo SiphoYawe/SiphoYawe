@@ -20,8 +20,8 @@
         <img src="./zion.svg" height="45" alt="Zion" />
       </a>
       <br/><br/>
-      <strong>ACE School Management</strong><br/>
-      Real-time goal tracking and automated reporting for ACE schools
+      <strong>ACE School Administration</strong><br/>
+      Comprehensive school management platform for ACE curriculum schools
       <br/><br/>
       <a href="https://zionapp.co">zionapp.co</a>
       <br/><br/>
@@ -58,8 +58,8 @@
         <img src="./laurel.svg" height="45" alt="Laurel" />
       </a>
       <br/><br/>
-      <strong>Laurel</strong><br/>
-      Coming soon
+      <strong>AI Habit Coach</strong><br/>
+      Helps you stick to resolutions using behavioral science and smart learning
       <br/><br/>
       <a href="https://github.com/SiphoYawe/laurel">github.com/SiphoYawe/laurel</a>
       <br/><br/>
