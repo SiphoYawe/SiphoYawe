@@ -1,4 +1,6 @@
-<h1 align="center">Sipho Yawe</h1>
+<p align="center">
+  <img src="./Sipho%20Yawe.svg" height="60" alt="Sipho Yawe" />
+</p>
 <h3 align="center">Building at the intersection of AI & DeFi</h3>
 
 <p align="center">
@@ -12,47 +14,55 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" bgcolor="#0d1117">
+      <br/>
       <a href="https://zionapp.co">
         <img src="./zion.svg" height="45" alt="Zion" />
       </a>
       <br/><br/>
-      <strong>Cross-chain DeFi trading</strong><br/>
-      Making swaps across blockchains simple and accessible
+      <strong>ACE School Management</strong><br/>
+      Real-time goal tracking and automated reporting for ACE schools
       <br/><br/>
-      <a href="https://zionapp.co">🔗 zionapp.co</a>
+      <a href="https://zionapp.co">zionapp.co</a>
+      <br/><br/>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" bgcolor="#0d1117">
+      <br/>
       <a href="https://usemina.co">
         <img src="./mina.svg" height="45" alt="Mina" />
       </a>
       <br/><br/>
-      <strong>AI-powered financial workflows</strong><br/>
-      LLM capabilities for smarter trading decisions
+      <strong>Bridge & Trade on Hyperliquid</strong><br/>
+      Bridge from 40+ chains and trade 30,000+ pairs with up to 50x leverage
       <br/><br/>
-      <a href="https://usemina.co">🔗 usemina.co</a>
+      <a href="https://usemina.co">usemina.co</a>
+      <br/><br/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" bgcolor="#0d1117">
+      <br/>
       <a href="https://spica-five.vercel.app/">
         <img src="./spica.svg" height="45" alt="Spica" />
       </a>
       <br/><br/>
-      <strong>AI conversation platform</strong><br/>
-      Multi-model chat interface with memory
+      <strong>AI-Powered DeFi Workflows</strong><br/>
+      Transform natural language into executable blockchain automation on Neo N3
       <br/><br/>
-      <a href="https://spica-five.vercel.app/">🔗 spica-five.vercel.app</a>
+      <a href="https://spica-five.vercel.app/">spica-five.vercel.app</a>
+      <br/><br/>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" bgcolor="#0d1117">
+      <br/>
       <a href="https://github.com/SiphoYawe/laurel">
         <img src="./laurel.svg" height="45" alt="Laurel" />
       </a>
       <br/><br/>
-      <strong>Portfolio analytics</strong><br/>
-      Track and visualize your crypto holdings
+      <strong>Laurel</strong><br/>
+      Coming soon
       <br/><br/>
-      <a href="https://github.com/SiphoYawe/laurel">🔗 github.com/SiphoYawe/laurel</a>
+      <a href="https://github.com/SiphoYawe/laurel">github.com/SiphoYawe/laurel</a>
+      <br/><br/>
     </td>
   </tr>
 </table>
