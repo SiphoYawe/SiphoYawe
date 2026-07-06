@@ -101,6 +101,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://tokscale.ai/u/SiphoYawe">
+    <img src="https://tokscale.ai/api/embed/SiphoYawe/svg?rank=percent&tokens=compact&cost=full" alt="Tokscale Stats" />
+  </a>
+</p>
+
 ---
 
 ## Let's Connect
