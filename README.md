@@ -88,22 +88,21 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiphoYawe&show_icons=true&theme=dark&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&border_color=58A6FF&hide_border=false" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiphoYawe&layout=compact&theme=dark&bg_color=0d1117&title_color=58A6FF&text_color=FFFFFF&border_color=58A6FF&hide_border=false" height="165" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-gamma-inky.vercel.app/?user=SiphoYawe&theme=dark&hide_border=true&ring=58A6FF&currStreakLabel=58A6FF&fire=58A6FF" alt="GitHub Streak" />
-  </a>
-</p>
+## AI Token Stats
 
 <p align="center">
   <a href="https://tokscale.ai/u/SiphoYawe">
     <img src="https://tokscale.ai/api/embed/SiphoYawe/svg?rank=percent&tokens=compact&cost=full" alt="Tokscale Stats" />
+  </a>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-gamma-inky.vercel.app/?user=SiphoYawe&theme=dark&hide_border=true&ring=58A6FF&currStreakLabel=58A6FF&fire=58A6FF" alt="GitHub Streak" />
   </a>
 </p>
 
